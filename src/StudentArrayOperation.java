@@ -4,12 +4,6 @@ import java.util.Date;
  * An interface that provide a number of operations for any array of students
  *
  */
-import java.util.Date;
-
-/**
- * An interface that provide a number of operations for any array of students
- *
- */
 public interface StudentArrayOperation {
 
 	/**
